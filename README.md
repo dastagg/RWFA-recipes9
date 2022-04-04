@@ -9,5 +9,8 @@ This is Section IV: Chapter 9 of the Flutter Apprentice Tutorial titled:
 
 Use the shared_preference plugin to save important pieces of information to the device.
 
-  - Use a web API to search for recipes
-  - Save those recipes as a bookmark in a local database
+  - Save searches for recipes as a bookmark in a local database
+  - Save the page the user was on when the app was closed and go to that page when the app is re-run
+
+Again, this one was a mostly copy/paste exercise for me. I do/did? read through the code but I didn't type it in as I did for the previous tutorials.
+
